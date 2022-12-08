@@ -10,10 +10,8 @@ their reference papers, their computational cost, and conditions for their use.
 
 | curve map | cost | conditions for use |
 | --------- | ---- | ------------------ |
-| Shallue, van der Woestijne
-[[0]](https://link.springer.com/chapter/10.1007/11792086_36) | sqrt + 2 ( . / q ) | no conditions! |
-| Icart + SWU map
-[[1](https://eprint.iacr.org/2009/340), [2](https://eprint.iacr.org/2009/226) | sixth root | q = 2 mod 3, ab != 0 |
+| Shallue, van der Woestijne [[0]](https://link.springer.com/chapter/10.1007/11792086_36) | sqrt + 2 ( . / q ) | no conditions! |
+| Icart + SWU map [[1](https://eprint.iacr.org/2009/340), [2](https://eprint.iacr.org/2009/226)] | sixth root | q = 2 mod 3, ab != 0 |
 | Koshelev [[3]](https://eprint.iacr.org/2021/301) | third root | a = 0, sqrt(b) \in Fq |
 | Koshelev [[4]](https://eprint.iacr.org/2021/1604) | fourth root | b = 0 |
 | SwiftEC [[5]](https://eprint.iacr.org/2022/759) | sqrt + 2 ( . / q ) | lots |
